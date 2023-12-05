@@ -1,7 +1,11 @@
+<div style="width: 200px; height: 200px; background-color: #eee; text-align: center; line-height: 200px; border-radius: 10px; transition: background-color 0.3s;">
+  Hover me!
+</div>
+
 <style>
-  .water-effect:hover {
-    transform: translateY(-5px);
-    transition: transform 0.2s ease-in-out;
+  div:hover {
+    background-color: #ccc;
+    cursor: pointer;
   }
 </style>
 

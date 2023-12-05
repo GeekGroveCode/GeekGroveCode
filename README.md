@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Algorithmic Thinking**
 
-- 📝 I regularly write articles on https://medium.com/@geekgrovecode
+- 📝 I regularly write articles on [https://medium.com/@geekgrovecode](https://medium.com/@geekgrovecode)
 
 - 📫 How to reach me **ggc@geekgrovecode.com**
 
@@ -23,8 +23,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/geekgrovecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geekgrovecode" height="30" width="40" /></a>
 <a href="https://dev.to/geekgrovecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="geekgrovecode" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@GeekGroveCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geekgrovecode" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/geekgrovecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="geekgrovecode" height="30" width="40" /></a>
+<a href="https://codesandbox.com/geekgrovecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="geekgrovecode" height="30" width="40" /></a>
+<a href="https://hashnode.com/@geekgrovecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@geekgrovecode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChAgEWTxZV5UiptJFbE9AYA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geekgrovecode" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/geekgrovecode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="geekgrovecode" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/geekgrovecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="geekgrovecode" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/geekgrovecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="geekgrovecode" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/geekgrovecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geekgrovecode" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@geekgrovecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@geekgrovecode" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/geekgrovecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="geekgrovecode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

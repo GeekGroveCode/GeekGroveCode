@@ -1,14 +1,3 @@
-<div style="width: 200px; height: 200px; background-color: #eee; text-align: center; line-height: 200px; border-radius: 10px; transition: background-color 0.3s;">
-  Hover me!
-</div>
-
-<style>
-  div:hover {
-    background-color: #ccc;
-    cursor: pointer;
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm GeekGroveCode</h1>
 <h3 align="center">Discovering my purpose.</h3>
 

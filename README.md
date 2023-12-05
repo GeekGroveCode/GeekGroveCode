@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Algorithmic Thinking**
 
-- <p>📝 I regularly write articles on <a href="https://medium.com/@geekgrovecode"><img alt="Medium Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/1595px-Medium_%28website%29_logo.svg.png" style="height:18px; width:70px" /></a></p>
+- <p>📝 I regularly write articles on <a href="https://medium.com/@geekgrovecode"><img alt="Medium Logo" src="https://miro.medium.com/v2/resize:fit:1400/0*A-qEwVTKNIhl_Inm.png" style="height:18px; width:70px" /></a></p>
 
 - 📫 How to reach me **ggc@geekgrovecode.com**
 

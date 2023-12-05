@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Algorithmic Thinking**
 
-- 📝 I regularly write articles on medium.com/@geekgrovecode
+- 📝 I regularly write articles on https://medium.com/@geekgrovecode
 
 - 📫 How to reach me **ggc@geekgrovecode.com**
 

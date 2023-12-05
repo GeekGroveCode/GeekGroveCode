@@ -1,3 +1,10 @@
+<style>
+  .water-effect:hover {
+    transform: translateY(-5px);
+    transition: transform 0.2s ease-in-out;
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm GeekGroveCode</h1>
 <h3 align="center">Discovering my purpose.</h3>
 
